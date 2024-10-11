@@ -16,10 +16,10 @@
         <mxCell id="KsepPGmTPoP3qZVe8c_a-19" value="MEM-API&lt;div&gt;(LDAP)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="450" y="440" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0rMbhJyMrpS3BPbaHYSH-1" value="COMMON&lt;div&gt;(DAO)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+        <mxCell id="0rMbhJyMrpS3BPbaHYSH-1" value="COMMON&lt;div&gt;(DAO)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0rMbhJyMrpS3BPbaHYSH-2" value="M3-WS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+        <mxCell id="0rMbhJyMrpS3BPbaHYSH-2" value="M3-WS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="140" y="440" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0rMbhJyMrpS3BPbaHYSH-3" value="CAS&lt;div&gt;(登入驗證)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
         <mxCell id="0rMbhJyMrpS3BPbaHYSH-23" value="M3-WS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="460" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0rMbhJyMrpS3BPbaHYSH-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="KsepPGmTPoP3qZVe8c_a-19" target="0rMbhJyMrpS3BPbaHYSH-21">
+        <mxCell id="0rMbhJyMrpS3BPbaHYSH-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="KsepPGmTPoP3qZVe8c_a-19" target="0rMbhJyMrpS3BPbaHYSH-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="410" as="sourcePoint" />
             <mxPoint x="630" y="360" as="targetPoint" />
@@ -228,6 +228,12 @@
             <mxPoint x="2380" y="480" as="sourcePoint" />
             <mxPoint x="2430" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0rMbhJyMrpS3BPbaHYSH-117" value="member view" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0rMbhJyMrpS3BPbaHYSH-118" value="login view" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="310" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
